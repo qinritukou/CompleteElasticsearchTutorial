@@ -1,4 +1,4 @@
-# change the number of primary shards later
+### change the number of primary shards later
 PUT /testindex 
 {
     "settings": {
